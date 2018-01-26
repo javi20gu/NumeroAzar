@@ -32,7 +32,7 @@ def main():
                 input("Pulse enter para continuar...")
                 exit()
             elif numero != numero_aleatorio and INTENTOS == 1:
-                print()
+                print(f"\nEl numero era {numero_aleatorio} :(\n")
                 print(format("GAME OVER","-^75"))
                 INTENTOS -= 1
                 input("Pulse enter para continuar...")
