@@ -1,4 +1,4 @@
 # NumeroAzar
 Juego hecho en Python
-- Incluye archivo .py
-- Incluye archivo .exe
+- [x] Incluye archivos .py
+- [x] Incluye archivo .exe
