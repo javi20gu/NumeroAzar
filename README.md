@@ -6,3 +6,5 @@ Juego hecho en Python
 Ejecutar:
 - Para Python: ejecutar.py
 - Para .exe: ejecutar.exe
+
+## Versión Soportada mínima: 3.6 en adelante
